@@ -1,0 +1,12 @@
+img {
+  width: 400px;
+}
+
+.float-left {
+  border: 1px solid black;
+  float: left;
+}
+
+h3 {
+  clear: left;
+}/*# sourceMappingURL=style.css.map */
